@@ -2,13 +2,13 @@ export default function HomeSection() {
   return (
     <section
       id="home"
-      className="flex flex-col items-center justify-center text-center py-30"
+      className="flex flex-col items-center justify-center text-center py-30 mx-6"
     >
       <h1 className="text-4xl font-medium py-2">Look Sharp. Feel Confident.</h1>
       <h2 className="text-xl text-gray-500 py-2">
         Premium barbershop services crafted by professionals.
       </h2>
-      <div className="flex gap-4 py-8">
+      <div className="flex flex-wrap gap-4 py-8 justify-center">
         <button className="bg-indigo-600 text-white px-6 py-2 rounded-2xl cursor-pointer hover:bg-indigo-500">
           Book a Visit
         </button>
