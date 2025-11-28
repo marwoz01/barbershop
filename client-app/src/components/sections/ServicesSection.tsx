@@ -14,7 +14,7 @@ export default function ServicesSection() {
       <div className="mt-10 grid w-full max-w-5xl gap-6 md:grid-cols-3">
         {/* Haircut */}
         <div className="rounded-2xl bg-white p-6 shadow-sm border border-gray-100 flex flex-col hover:bg-gray-50">
-          <div className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-purple-100 text-purple-700 mb-6">
+          <div className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-indigo-100 text-indigo-600 mb-6">
             ✂
           </div>
           <h3 className="text-base font-medium text-gray-900">Haircut</h3>
@@ -29,7 +29,7 @@ export default function ServicesSection() {
 
         {/* Beard Trim */}
         <div className="rounded-2xl bg-white p-6 shadow-sm border border-gray-100 flex flex-col hover:bg-gray-50">
-          <div className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-purple-100 mb-6">
+          <div className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-indigo-100 text-indigo-600 mb-6">
             🪒
           </div>
           <h3 className="text-base font-medium text-gray-900">Beard Trim</h3>
@@ -44,7 +44,7 @@ export default function ServicesSection() {
 
         {/* Combo */}
         <div className="rounded-2xl bg-white p-6 shadow-sm border border-gray-100 flex flex-col hover:bg-gray-50">
-          <div className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-purple-100 mb-6">
+          <div className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-indigo-100 text-indigo-600 mb-6">
             ✨
           </div>
           <h3 className="text-base font-medium text-gray-900">Combo</h3>

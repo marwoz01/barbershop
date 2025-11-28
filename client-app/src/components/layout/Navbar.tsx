@@ -19,7 +19,7 @@ export default function Navbar() {
     <header className="w-full border-b border-gray-200">
       <nav className="mx-auto flex w-full max-w-6xl items-center justify-between p-5">
         <div className="flex items-center gap-3">
-          <div className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-[#5B4BFF] text-sm text-white">
+          <div className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-indigo-600 text-sm text-white">
             ✂
           </div>
           <span className="text-md font-semibold">Barbershop</span>
